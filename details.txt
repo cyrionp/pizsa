@@ -1,0 +1,14 @@
+DO THESE TO RUN
+
+1- You have to create a new database named as "pizsa"
+2- Database's tables in "database" file, import each of them into "pizsa" 
+3- Go localhost/pizsa to index
+
+
+MECHANISM
+
+4- You can register as customer and it will say your customer id to log in
+5- After the registration you can log in and order anything
+6- After the ordering it will say what you ordered
+7- You can log in as an admin, admin id is my student id "175050008"
+8- You can see the orders there
